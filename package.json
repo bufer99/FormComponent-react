@@ -1,7 +1,7 @@
 {
   "name": "react-bead-pontozo-starter-kit",
   "version": "0.1.0",
-  "homepage": "https://bufer99.github.io/FormComponent",
+  "homepage": "https://bufer99.github.io/FormComponent-react",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
