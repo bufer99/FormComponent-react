@@ -2,4 +2,4 @@
 
 The component is not yet responsive.
 
-https://bufer99.github.io/FormComponent-react/
+https://bufer99.github.io/formComponent-react/
